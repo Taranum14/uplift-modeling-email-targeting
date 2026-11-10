@@ -1,6 +1,6 @@
 # Who Should Get the Email? Uplift Modeling for Marketing Targeting
 
-**Live dashboard:**
+**Live dashboard:** https://uplift-modeling-email-targeting-s3znsezem7l5v3krkuvrye.streamlit.app/
 
 An end-to-end uplift analysis of a randomized email campaign (64,000 customers). Instead of predicting who is likely to buy, it estimates **for whom the email actually changes the outcome**, then turns that into a profit decision: who to email, and when emailing everyone is the better choice.
 
